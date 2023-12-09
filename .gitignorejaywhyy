@@ -6,7 +6,7 @@
 [c] inkedin: https://www.linkedin.com/mwlite/in/yen-griffiths-1311311a3
 [c] Snapchat: https://www.snapchat.com
 [c] email addresses: https://www.google.com/gmail/about
-[c] search completed with 5 reult.
+[c] https://instagram.com/jvmadic?igshid=OGQ5ZDc2ODk2ZA==)
 
 spython3 -m pip install -r requirements.txt
 passwords for social media - marquee-
@@ -16,3 +16,9 @@ password s
 usernames
 al social media related to this user : yengriffiths
 territory; Auckland,-  [North shore].Home.Address: Phone.Tradker-
+
+ == '__main__':password = raw_input("password: ") password_hash = getTorPassHash(password)
+ config = { M  'ClientOnly': '1','ControlPort': '9051',
+     'DataDirectory': '~/.tor/temp',
+  'Log': ['DEBUG stdout', 'ERR stderr' ],
+   'HashedControlPassword' : password_hash } torProcess, torControl = startTor(password, config
