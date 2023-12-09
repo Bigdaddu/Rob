@@ -1,0 +1,27 @@
+ == '__main__':password = raw_input("password: ") password_hash = getTorPassHash(password)
+ config = { M  'ClientOnly': '1','ControlPort': '9051',
+     'DataDirectory': '~/.tor/temp',
+  'Log': ['DEBUG stdout', 'ERR stderr' ],
+   'HashedControlPassword' : password_hash } torProcess, torControl = startTor(password, config
+
+Yen_Griffiths: '1',
+'ControlPort': '9051',
+'DataDirectory': '~/.tor/temp',
+'Log': ['DEBUG stdout', 'ERR stderr' ],
+
+
+./autogen.sh
+./configure
+make
+make install
+
+the source- help
+git clone https://github.com/sherlock-project/sherlock.git
+usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
++642102826258; (location) tracker gps;
+[+] https://instagram.com/yen_griffiths?igshid=Y2IzZGU1MTFhOQ==
+[+] https://m.facebook.com/yen.griffiths
+[+] https://www.linkedin.com/mwlite/in/yen-griffiths-1311311a3
+[+]
+python3-- sherlock- locate exact position 
+(track)
