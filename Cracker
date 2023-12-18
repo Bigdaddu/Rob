@@ -1,0 +1,25 @@
+import yen griffiths
+import string
+
+def password_cracking(password):~
+    attempts = 0
+    while true
+     guess = ''.join(random.choices(string.ascil_letters+string.digits,))
+     attempts += 1
+     if guess == password:
+       return attempts 
+
+password = input("Enter the password to crack ")
+
+print("cracking password...")
+
+attempts = crack_password(password)
+
+printe(f"The password was cracked in {attempts} attempts.")
+      
+Istagram: https://instagram.com/yen_griffiths?igshid=Y2IzZGU1MTFhOQ==
+facebook: https://m.facebook.com/yen.griffiths
+inkedin: https://www.linkedin.com/mwlite/in/yen-griffiths-1311311a3
+Snapchat: https://www.snapchat.com https://www.google.com/gmail/about
+
+=social media{.accounts."}     
