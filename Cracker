@@ -16,10 +16,11 @@ print("cracking password...")
 attempts = crack_password(password)
 
 printe(f"The password was cracked in {attempts} attempts.")
-      
-Istagram: https://instagram.com/yen_griffiths?igshid=Y2IzZGU1MTFhOQ==
-facebook: https://m.facebook.com/yen.griffiths
-inkedin: https://www.linkedin.com/mwlite/in/yen-griffiths-1311311a3
-Snapchat: https://www.snapchat.com https://www.google.com/gmail/about
 
-=social media{.accounts."}     
+<input> username;Yen griffiths... <social.media>{.accounts."}     
+
+Istagram: 
+facebook: 
+inkedin:
+Snapchat: 
+<social.media>{.accounts."}     
