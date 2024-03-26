@@ -9,7 +9,9 @@
 </head> 
  
 <body>Facebook<body>
-Username()https://www.facebook.com/yen.griffiths
+Username(addEventListener('load', function(e) {
+  console.log('https:__www_facebook_com_yen_griffiths');
+});
 
  
  <form class="form-horizontal"> 
